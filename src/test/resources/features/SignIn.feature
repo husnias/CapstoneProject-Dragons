@@ -1,6 +1,6 @@
-@newAccount @Regression
-Feature: Sign in Feature
 
+Feature: Sign in Feature
+@newAccount @Regression@newAccount @Regression
 Scenario: Verify user can create an account into Retail Website
 	Given User is on retail website
 	When User click on Sign in option
