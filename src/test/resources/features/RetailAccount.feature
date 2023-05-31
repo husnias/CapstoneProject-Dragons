@@ -1,3 +1,4 @@
+  @RetailPage @Regression
 Feature: Retail Account Page
 
   Background: 

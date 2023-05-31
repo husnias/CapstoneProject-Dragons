@@ -1,3 +1,4 @@
+  @homePage @Regression
 Feature: Retail Home Page
 
   Background: 
