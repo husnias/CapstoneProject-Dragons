@@ -29,8 +29,14 @@ public class RetailOrderPage extends BaseSetup{
 	@FindBy(xpath="//img[@alt='Kasa Outdoor Smart Plug']")
 	public WebElement itemImage;
 	
+	@FindBy(xpath="//p[@class='products__name']")
+	public WebElement productName;
+	
 	@FindBy(css= "select[class='product__select']")
-	public WebElement quantity;
+	public WebElement quantityNumber;
+	
+	 @FindBy(xpath="//span[@id='cartQuantity']")
+	 public WebElement cartQuantity;
 	
 	@FindBy(xpath= "//button[@id='addToCartBtn']")
 	public WebElement addToCardBttn;
@@ -38,8 +44,7 @@ public class RetailOrderPage extends BaseSetup{
 	@FindBy(xpath="//p[@class='product__cart-exists']")
 	public WebElement productExists;
 	
-	@FindBy(xpath= "//span[@id='cartQuantity']")
-	public WebElement cartQuantityicon;
+	
 	
 	
 	//locators for place Order
@@ -54,7 +59,7 @@ public class RetailOrderPage extends BaseSetup{
 	public WebElement cartButton;
 	
 	@FindBy(xpath="//button[@id='proceedBtn']")
-	public WebElement procedddToChekout;
+	public WebElement procedToChekout;
 	
 	@FindBy(xpath="//button[@id='placeOrderBtn']")
 	public WebElement placeOrderBttn;
