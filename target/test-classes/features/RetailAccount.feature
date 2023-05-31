@@ -19,7 +19,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 5174125678907340 | Husnia     |               6 |           2023 |          700 |
+      | 5174125678907341 | Husnia     |               6 |           2023 |          701 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
