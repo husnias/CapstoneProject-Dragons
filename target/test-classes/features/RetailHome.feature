@@ -1,4 +1,4 @@
-@homePage
+@homePage 
 Feature: Retail Home Page
 
   Background: 

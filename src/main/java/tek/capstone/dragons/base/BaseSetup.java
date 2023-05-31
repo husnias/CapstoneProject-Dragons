@@ -1,5 +1,7 @@
 package tek.capstone.dragons.base;
 
+import java.time.Duration;
+import java.time.temporal.ChronoUnit;
 import java.util.HashMap;
 
 import org.apache.log4j.Logger;
@@ -14,6 +16,7 @@ import tek.capstone.dragons.config.FireFoxBrowser;
 import tek.capstone.dragons.utilities.ReadYamlFiles;
 
 public class BaseSetup {
+	// this class is parent class of all Step Def, Utilities class and POM classes
 	//declare webdriver,declare the instance of readYamlfile,
 	//and create logger as  refrance to log our test steps
 	private static WebDriver webDriver;
@@ -65,6 +68,9 @@ public class BaseSetup {
 			throw new RuntimeException("Browser name in config file dosenot match any of the cases.");
 			
 		}
+		  webDriver.manage().window().maximize();
+	        webDriver.manage().timeouts().implicitlyWait(Duration.of(20, ChronoUnit.SECONDS));
+	        webDriver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
 	}
 	
 	public void quitBrowser() {
