@@ -1,4 +1,4 @@
-@newAccount 
+@newAccount @Regression
 Feature: Sign in Feature
 
 Scenario: Verify user can create an account into Retail Website

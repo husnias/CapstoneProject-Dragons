@@ -1,3 +1,4 @@
+  @order @Regression
 Feature: Retail Order Page
 
   Background: 
@@ -10,7 +11,7 @@ Feature: Retail Order Page
     And User click on Orders section
     And User click on first order in list
 
-  @order @Regression
+
   Scenario: Verify User can add an item to cart
     And User change the category to 'Smart Home'
     And User search for an item 'kasa outdoor smart plug'
