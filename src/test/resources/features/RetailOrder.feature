@@ -1,4 +1,3 @@
-@Regression
 Feature: Retail Order Page
 
   Background: 
@@ -42,7 +41,7 @@ Feature: Retail Order Page
     And User click on Cancel Order button
     Then a cancelation message should be displayed ‘Your Order Has Been Cancelled’
 
-  @order @Regression
+  @Regression
   Scenario: Verify User can Return the order
     And User click on first order in the list
     And User click on Return Items button

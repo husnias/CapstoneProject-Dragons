@@ -1,4 +1,3 @@
-@Regression
 Feature: Sign in Feature
 
   @Regression

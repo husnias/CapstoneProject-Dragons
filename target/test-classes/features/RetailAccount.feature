@@ -1,4 +1,3 @@
-@Regression
 Feature: Retail Account Page
 
   Background: 
@@ -58,7 +57,7 @@ Feature: Retail Account Page
     And User click update Your Address button
     Then a message should be displayed ‘Address Updated Successfully
 
-  @RetailPage @Regression
+  @Regression
   Scenario: Verify User can remove Address from Account
     And User click on remove option of Address section
     Then Address details should be removed
