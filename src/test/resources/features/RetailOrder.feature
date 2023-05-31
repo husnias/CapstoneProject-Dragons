@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 33eec5658955181170cff45399c0f57ed418719b
 Feature: Retail Order Page
 
   Background: 
@@ -26,9 +30,9 @@ Feature: Retail Order Page
     And User search for the item 'Apex Legends'
     And User click on the Search icon
     And User click on the item
-    And User select  the quantity ‘5’
+    And User select quantity ‘5’
     And User click add item to Cart button
-    Then the cart icon quantity should be change to ‘5’
+    Then the cart icon quantity should change to ‘5’
     And User click on Cart option
     And User click on Proceed to Checkout button
     And User click on Place Your Order
