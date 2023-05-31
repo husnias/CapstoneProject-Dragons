@@ -1,16 +1,16 @@
-  @homePage @Regression
+@Regression
 Feature: Retail Home Page
 
   Background: 
     Given User is on retail website
     When User click on All section
 
-  @homePage @Regression
+  @Regression
   Scenario: Verify Shop by Department sidebar
     Then below options are present in Shop by Department sidebar
       | Electronics | Computers | Smart Home | Sports | Automative |
 
-  @homePage @Regression
+  @Regression
   Scenario Outline: Verify department sidebar options
     And User is on 'Electronics'
     Then below options are present in department

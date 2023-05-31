@@ -1,4 +1,4 @@
-  @RetailPage @Regression
+@Regression
 Feature: Retail Account Page
 
   Background: 
@@ -9,13 +9,13 @@ Feature: Retail Account Page
     And User should be logged in into Account
     When User click on Account option
 
-  @RetailPage @Regression
+  @Regression
   Scenario: Verify User can update Profile Information
     And User update Name 'HusniaSih' and Phone '202-641-7774'
     And User click on Update button
     Then user profile information should be updated
 
-  @RetailPage @Regression
+  @Regression
   Scenario: Verify User can add a payment method
     And User click on Add a payment method link
     And User fill Debit or credit card information
@@ -24,7 +24,7 @@ Feature: Retail Account Page
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
-  @RetailPage @Regression
+  @Regression
   Scenario: Verify User can edit Debit or Credit card
     And User click on Card to Eidt
     And User click on Edit option of card section
@@ -40,16 +40,16 @@ Feature: Retail Account Page
     And User click on remove option of card section
     Then payment details should be removed
 
-  @RetailPage @Regression
+  @Regression
   Scenario: Verify User can add an Address
     And User click on Add address option
     And user fill new address form with below information
-      | country       | fullName | phoneNumber  | streetAddress     | apt   | city        | state   | zipCode |
+      | country       | fullName | phoneNumber  | streetAddress    | apt   | city        | state   | zipCode |
       | United States | Sara     | 202-666-0904 | 3237 Moon street | value | wooddbridge | Alabama |   22191 |
     And User click Add Your Address button
     Then a message should be displayed ‘Address Added Successfully’
 
-  @RetailPage @Regression
+  @Regression
   Scenario: Verify User can edit an Address added on account
     And User click on edit address option
     And user fill  edit address form with below information
