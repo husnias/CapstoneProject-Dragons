@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 33eec5658955181170cff45399c0f57ed418719b
+@order @Regression
 Feature: Retail Order Page
 
   Background: 
