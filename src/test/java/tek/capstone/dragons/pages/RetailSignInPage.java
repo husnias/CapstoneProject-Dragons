@@ -49,7 +49,7 @@ public class RetailSignInPage extends BaseSetup {
 	public WebElement yourAccount;
 	 
 	@FindBy(xpath= "//div[@class='account__personal']//h1")
-	public WebElement yourProfiletext;
+	public WebElement yourProfile;
 		
 	public void sendRegisterationInfo(String name, String email, String pass, String confirmPass) {
 		nameField.sendKeys(name);

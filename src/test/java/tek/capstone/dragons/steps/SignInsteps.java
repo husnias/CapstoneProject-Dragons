@@ -13,7 +13,6 @@ public class SignInsteps extends CommonUtility {
 	
 	POMFactory factory = new POMFactory();
 	
-	
 	@Given("User is on retail website")
 	public void userIsOnRetailWebsite() {
 		logger.info("User is on retail website");
@@ -62,7 +61,7 @@ public class SignInsteps extends CommonUtility {
 		public void userShouldBeLoggedIntoAccountPage() {
 		slowDown();
 		String expectedTest = "Your Profile";
-		String actualText = factory.retailSignInPage().yourProfiletext.getText();
+		String actualText = factory.retailSignInPage().yourProfile.getText();
 		Assert.assertEquals(expectedTest, actualText);
 		logger.info(actualText + ": was verified successfully");
 	}

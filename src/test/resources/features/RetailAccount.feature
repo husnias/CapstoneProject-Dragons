@@ -10,7 +10,7 @@ Feature: Retail Account Page
 
   @RetailPage @Regression
   Scenario: Verify User can update Profile Information
-    And User update Name 'HusniaS' and Phone '202-641-7774'
+    And User update Name 'HusniaSih' and Phone '202-641-7774'
     And User click on Update button
     Then user profile information should be updated
 
@@ -19,7 +19,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 5174125678907140 | Husnia     |               6 |           2023 |          211 |
+      | 5174125678907340 | Husnia     |               6 |           2023 |          700 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
@@ -29,7 +29,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 4350935761098220 | Husnia     |               5 |           2023 |          010 |
+      | 4350935761098731 | Husnia     |               5 |           2023 |          091 |
     And user click on Update Your Card button
     Then a message should be displayed ‘Payment Method updated Successfully’
 
@@ -44,7 +44,7 @@ Feature: Retail Account Page
     And User click on Add address option
     And user fill new address form with below information
       | country       | fullName | phoneNumber  | streetAddress     | apt   | city        | state   | zipCode |
-      | United States | Sara     | 202-666-0903 | 3236 avneu street | value | wooddbridge | Alabama |   22191 |
+      | United States | Sara     | 202-666-0904 | 3237 Moon street | value | wooddbridge | Alabama |   22191 |
     And User click Add Your Address button
     Then a message should be displayed ‘Address Added Successfully’
 
@@ -53,7 +53,7 @@ Feature: Retail Account Page
     And User click on edit address option
     And user fill  edit address form with below information
       | country       | fullName   | phoneNumber  | streetAddress     | apt   | city        | state   | zipCode |
-      | United States | Sara Ahmad | 202-555-0102 | 3235 avneu street | value | wooddbridge | Alabama |   22191 |
+      | United States | Sara Ahmad | 202-555-0101 | 3237 avneu street | value | wooddbridge | Alabama |   22191 |
     And User click update Your Address button
     Then a message should be displayed ‘Address Updated Successfully
 
