@@ -7,7 +7,6 @@
   <groupId>tek.capstone.bdd.framework</groupId>
   <artifactId>tek-capstone-dragons</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
   <name>tek-capstone-dragons</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
@@ -69,12 +68,7 @@
 			<groupId>log4j</groupId>
 			<artifactId>log4j</artifactId>
 			<version>1.2.17</version>
-		</dependency>
-		<dependency>
-			<groupId>com.DragonsSeleniumProject</groupId>
-			<artifactId>com.DragonsSeleniumProject</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		</dependency>		
 	</dependencies>
 	<build>
 		<plugins>
