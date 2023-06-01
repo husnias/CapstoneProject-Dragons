@@ -83,7 +83,7 @@ public class RetailOrderSteps extends CommonUtility{
 	    click(factory.retailOrderPage().imgApexLegends);
 	    logger.info("User click on item successfully");
 	}
-	@When("User select  the quantity'{int}'")
+	@When("User select the quantity ‘{int}’")
 	public void userSelectTheQuantity(Integer int2) {
 		clearTextUsingSendKeys(factory.retailOrderPage().quantityNumber);
 		selectByIndex(factory.retailOrderPage().quantityNumber,  int2 );
@@ -95,8 +95,8 @@ public class RetailOrderSteps extends CommonUtility{
 		logger.info("User click add to Cart button");
 	}
 	
-	@Then("the cart icon quantity should be change to'{int}'")
-	public void theCartIconQuantityShouldBeChangeTo(Integer int2) {
+	@Then("cart icon quantity should change to ‘{int}’")
+	public void cartIconQuantityShouldChangeTo(Integer int2) {
 		selectByIndex(factory.retailOrderPage().quantityNumber,  int2 );
 		logger.info("the cart icon quantity changed");	
 	}

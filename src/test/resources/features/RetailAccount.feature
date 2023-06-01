@@ -20,7 +20,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 5174126789072597 | Husnia     |               6 |           2025 |        888 |
+      | 5174126789072591 | Husnia     |               6 |           2025 |        882 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
@@ -30,7 +30,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 4350935761098349 | Husnia     |               5 |           2026 |          499 |
+      | 4350935761098345 | Husnia     |               5 |           2026 |          699 |
     And user click on Update Your Card button
     Then a message should be displayed ‘Payment Method updated Successfully’
 
@@ -45,7 +45,7 @@ Feature: Retail Account Page
     And User click on Add address option
     And user fill new address form with below information
       | country       | fullName | phoneNumber  | streetAddress    | apt   | city        | state   | zipCode |
-      | United States | Sara     | 202-666-0904 | 3238 Sun street | value | wooddbridge | Alabama |   22191 |
+      | United States | Sara     | 202-666-0904 | 3299 Sun street | value | wooddbridge | Alabama |   22191 |
     And User click Add Your Address button
     Then a message should be displayed ‘Address Added Successfully’
 

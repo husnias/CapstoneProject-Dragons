@@ -4159,3 +4159,196 @@
 2023-05-31 20:51:47,222 [main] INFO logger_file - User writes review headline and text
 2023-05-31 20:51:47,524 [main] INFO logger_file - User click Add your Review button
 2023-05-31 20:51:48,073 [main] INFO logger_file - review was added successfully
+2023-05-31 21:22:14,035 [main] INFO logger_file - User is on retail website
+2023-05-31 21:22:14,227 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:22:14,460 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:22:14,544 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:22:19,617 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:22:19,730 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:22:19,850 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:22:19,945 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:22:20,075 [main] INFO logger_file - User change the category successfully
+2023-05-31 21:22:20,164 [main] INFO logger_file - User serach for item successfully
+2023-05-31 21:22:20,248 [main] INFO logger_file - User click on search icon successfully
+2023-05-31 21:22:23,388 [main] INFO logger_file - user on Item successFully
+2023-05-31 21:22:23,614 [main] INFO logger_file - User select quantity
+2023-05-31 21:22:23,695 [main] INFO logger_file - User click add to Cart button
+2023-05-31 21:22:23,792 [main] INFO logger_file - the cart icon quantity changed
+2023-05-31 21:22:25,191 [main] INFO logger_file - User is on retail website
+2023-05-31 21:22:25,353 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:22:25,606 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:22:25,688 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:22:30,738 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:22:30,848 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:22:30,966 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:22:31,064 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:22:31,181 [main] INFO logger_file - User change the category successfully
+2023-05-31 21:22:31,263 [main] INFO logger_file - User serach for item successfully
+2023-05-31 21:22:31,345 [main] INFO logger_file - User click on search icon successfully
+2023-05-31 21:22:31,431 [main] INFO logger_file - User click on item successfully
+2023-05-31 21:22:31,737 [main] INFO logger_file - User select quantity
+2023-05-31 21:22:31,818 [main] INFO logger_file - User click add to Cart button
+2023-05-31 21:22:31,950 [main] INFO logger_file - the cart icon quantity changed
+2023-05-31 21:22:32,044 [main] INFO logger_file - User click on cart option
+2023-05-31 21:22:32,147 [main] INFO logger_file - User click on Proceed to Checkout button
+2023-05-31 21:22:32,238 [main] INFO logger_file - User clicked on Place Your Order button
+2023-05-31 21:22:32,964 [main] INFO logger_file - Order Placed Successfully
+2023-05-31 21:22:34,222 [main] INFO logger_file - User is on retail website
+2023-05-31 21:22:34,389 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:22:34,624 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:22:34,700 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:22:39,748 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:22:39,858 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:22:39,975 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:22:40,077 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:22:40,174 [main] INFO logger_file - User clicked on Cancel The Order button
+2023-05-31 21:22:40,287 [main] INFO logger_file - User selected the cancellation reason 'Bought wrong item'
+2023-05-31 21:22:40,365 [main] INFO logger_file - User clicked on Cancel Order button
+2023-05-31 21:22:40,443 [main] INFO logger_file - Cancellation message displayed correctly
+2023-05-31 21:22:41,707 [main] INFO logger_file - User is on retail website
+2023-05-31 21:22:41,845 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:22:42,074 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:22:42,152 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:22:47,227 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:22:47,326 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:22:47,441 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:22:47,536 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:22:47,610 [main] INFO logger_file - User click on first order in the list
+2023-05-31 21:23:29,056 [main] INFO logger_file - User is on retail website
+2023-05-31 21:23:29,228 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:23:29,446 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:23:29,522 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:23:34,569 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:23:34,671 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:23:34,787 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:23:34,894 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:23:34,958 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:23:35,044 [main] INFO logger_file - User click on Review button
+2023-05-31 21:23:35,199 [main] INFO logger_file - User writes review headline and text
+2023-05-31 21:23:35,292 [main] INFO logger_file - User click Add your Review button
+2023-05-31 21:23:35,916 [main] INFO logger_file - review was added successfully
+2023-05-31 21:26:25,507 [main] INFO logger_file - User is on retail website
+2023-05-31 21:26:25,775 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:26:26,011 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:26:26,095 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:26:31,125 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:26:31,247 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:26:31,393 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:26:31,513 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:26:31,644 [main] INFO logger_file - User change the category successfully
+2023-05-31 21:26:31,742 [main] INFO logger_file - User serach for item successfully
+2023-05-31 21:26:31,820 [main] INFO logger_file - User click on search icon successfully
+2023-05-31 21:26:34,967 [main] INFO logger_file - user on Item successFully
+2023-05-31 21:26:35,208 [main] INFO logger_file - User select quantity
+2023-05-31 21:26:35,281 [main] INFO logger_file - User click add to Cart button
+2023-05-31 21:26:35,387 [main] INFO logger_file - the cart icon quantity changed
+2023-05-31 21:26:36,798 [main] INFO logger_file - User is on retail website
+2023-05-31 21:26:37,020 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:26:37,249 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:26:37,322 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:26:42,347 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:26:42,449 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:26:42,583 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:26:42,709 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:26:42,819 [main] INFO logger_file - User change the category successfully
+2023-05-31 21:26:42,903 [main] INFO logger_file - User serach for item successfully
+2023-05-31 21:26:42,978 [main] INFO logger_file - User click on search icon successfully
+2023-05-31 21:26:43,059 [main] INFO logger_file - User click on item successfully
+2023-05-31 21:27:04,766 [main] INFO logger_file - User is on retail website
+2023-05-31 21:27:05,013 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:27:05,251 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:27:05,320 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:27:10,349 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:27:10,455 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:27:10,595 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:27:10,707 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:27:52,690 [main] INFO logger_file - User is on retail website
+2023-05-31 21:27:52,940 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:27:53,272 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:27:53,371 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:27:58,395 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:27:58,493 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:27:58,620 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:27:58,746 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:27:58,828 [main] INFO logger_file - User click on first order in the list
+2023-05-31 21:28:40,493 [main] INFO logger_file - User is on retail website
+2023-05-31 21:28:40,730 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:28:40,961 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:28:41,030 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:28:46,053 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:28:46,152 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:28:46,292 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:28:46,402 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:28:46,495 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:28:46,579 [main] INFO logger_file - User click on Review button
+2023-05-31 21:28:46,777 [main] INFO logger_file - User writes review headline and text
+2023-05-31 21:28:46,878 [main] INFO logger_file - User click Add your Review button
+2023-05-31 21:28:47,491 [main] INFO logger_file - review was added successfully
+2023-05-31 21:42:21,462 [main] INFO logger_file - User is on retail website
+2023-05-31 21:42:21,715 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:42:21,954 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:42:22,033 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:42:27,067 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:42:27,190 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:42:27,326 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:42:27,457 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:42:27,579 [main] INFO logger_file - User change the category successfully
+2023-05-31 21:42:27,685 [main] INFO logger_file - User serach for item successfully
+2023-05-31 21:42:27,770 [main] INFO logger_file - User click on search icon successfully
+2023-05-31 21:42:30,915 [main] INFO logger_file - user on Item successFully
+2023-05-31 21:42:31,157 [main] INFO logger_file - User select quantity
+2023-05-31 21:42:31,236 [main] INFO logger_file - User click add to Cart button
+2023-05-31 21:42:31,342 [main] INFO logger_file - the cart icon quantity changed
+2023-05-31 21:42:32,794 [main] INFO logger_file - User is on retail website
+2023-05-31 21:42:33,029 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:42:33,260 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:42:33,332 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:42:38,357 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:42:38,463 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:42:38,595 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:42:38,707 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:42:38,890 [main] INFO logger_file - User change the category successfully
+2023-05-31 21:42:38,985 [main] INFO logger_file - User serach for item successfully
+2023-05-31 21:42:39,071 [main] INFO logger_file - User click on search icon successfully
+2023-05-31 21:42:39,169 [main] INFO logger_file - User click on item successfully
+2023-05-31 21:42:39,491 [main] INFO logger_file - User select quantity
+2023-05-31 21:42:39,571 [main] INFO logger_file - User click add to Cart button
+2023-05-31 21:42:39,740 [main] INFO logger_file - the cart icon quantity changed
+2023-05-31 21:42:39,828 [main] INFO logger_file - User click on cart option
+2023-05-31 21:42:39,957 [main] INFO logger_file - User click on Proceed to Checkout button
+2023-05-31 21:42:40,047 [main] INFO logger_file - User clicked on Place Your Order button
+2023-05-31 21:42:40,810 [main] INFO logger_file - Order Placed Successfully
+2023-05-31 21:42:42,181 [main] INFO logger_file - User is on retail website
+2023-05-31 21:42:42,406 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:42:42,655 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:42:42,736 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:42:47,761 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:42:47,862 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:42:47,998 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:42:48,113 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:42:48,230 [main] INFO logger_file - User clicked on Cancel The Order button
+2023-05-31 21:42:48,334 [main] INFO logger_file - User selected the cancellation reason 'Bought wrong item'
+2023-05-31 21:42:48,409 [main] INFO logger_file - User clicked on Cancel Order button
+2023-05-31 21:42:48,493 [main] INFO logger_file - Cancellation message displayed correctly
+2023-05-31 21:42:49,945 [main] INFO logger_file - User is on retail website
+2023-05-31 21:42:50,200 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:42:50,432 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:42:50,500 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:42:55,579 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:42:55,712 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:42:55,843 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:42:55,962 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:42:56,060 [main] INFO logger_file - User click on first order in the list
+2023-05-31 21:43:38,195 [main] INFO logger_file - User is on retail website
+2023-05-31 21:43:38,467 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 21:43:38,695 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 21:43:38,768 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 21:43:43,790 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 21:43:43,886 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 21:43:44,014 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 21:43:44,141 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:43:44,219 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 21:43:44,300 [main] INFO logger_file - User click on Review button
+2023-05-31 21:43:44,474 [main] INFO logger_file - User writes review headline and text
+2023-05-31 21:43:44,588 [main] INFO logger_file - User click Add your Review button
+2023-05-31 21:43:45,209 [main] INFO logger_file - review was added successfully
