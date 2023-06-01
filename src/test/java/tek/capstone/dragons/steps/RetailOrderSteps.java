@@ -84,9 +84,10 @@ public class RetailOrderSteps extends CommonUtility{
 	    logger.info("User click on item successfully");
 	}
 	@When("User select the quantity ‘{int}’")
-	public void userSelectTheQuantity(Integer int2) {
+	public void userSelectTheQuantity(Integer int2) throws InterruptedException {
 		clearTextUsingSendKeys(factory.retailOrderPage().quantityNumber);
 		selectByIndex(factory.retailOrderPage().quantityNumber,  int2 );
+		Thread.sleep(2000);
 		logger.info("User select quantity");
 	}
 	@When("User click add item to Cart button")

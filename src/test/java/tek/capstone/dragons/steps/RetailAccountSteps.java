@@ -16,9 +16,7 @@ public class RetailAccountSteps extends CommonUtility {
 	// action methods 
 	
 	POMFactory factory = new POMFactory();
-	
-
-	
+		
 	@When ("User click on Account option")
 	public void userClickOnAccountOption() {
 		click(factory.retailAccountPage().yourAccount);

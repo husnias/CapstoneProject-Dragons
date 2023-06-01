@@ -30,7 +30,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 4350935761098345 | Husnia     |               5 |           2026 |          699 |
+      | 4350935761098341 | Husnia     |               5 |           2026 |          119 |
     And user click on Update Your Card button
     Then a message should be displayed ‘Payment Method updated Successfully’
 
