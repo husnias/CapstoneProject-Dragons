@@ -1,3 +1,4 @@
+  @Regression
 Feature: Retail Account Page
 
   Background: 
@@ -29,7 +30,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 4350935761098731 | Husnia     |               5 |           2023 |          091 |
+      | 4350935761098731 | Husnia     |               5 |           2023 |          491 |
     And user click on Update Your Card button
     Then a message should be displayed ‘Payment Method updated Successfully’
 
@@ -44,7 +45,7 @@ Feature: Retail Account Page
     And User click on Add address option
     And user fill new address form with below information
       | country       | fullName | phoneNumber  | streetAddress    | apt   | city        | state   | zipCode |
-      | United States | Sara     | 202-666-0904 | 3237 Moon street | value | wooddbridge | Alabama |   22191 |
+      | United States | Sara     | 202-666-0904 | 3234 Moon street | value | wooddbridge | Alabama |   22191 |
     And User click Add Your Address button
     Then a message should be displayed ‘Address Added Successfully’
 
