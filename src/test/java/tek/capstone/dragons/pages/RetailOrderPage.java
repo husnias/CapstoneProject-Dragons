@@ -45,12 +45,13 @@ public class RetailOrderPage extends BaseSetup{
 	public WebElement productExists;
 	
 	
-	
-	
 	//locators for place Order
 	
 	@FindBy(xpath= "//img[@alt='Apex Legends - 1,000 Apex Coins']")
 	public WebElement imgApexLegends;
+	
+	@FindBy(xpath= "//p[text()='Apex Legends - 1,000 Apex Coins']")
+	public WebElement apexLegends;
 	
 	@FindBy(xpath= "//button[@id='searchBtn']")
 	public WebElement searchIcon2;

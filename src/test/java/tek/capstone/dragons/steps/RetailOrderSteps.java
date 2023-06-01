@@ -43,9 +43,9 @@ public class RetailOrderSteps extends CommonUtility{
 	}
 	
 	@When("User select quantity ‘{int}’")
-	public void userSelectQuantity(Integer int1) {
+	public void userSelectQuantity(Integer int2) {
 		clearTextUsingSendKeys(factory.retailOrderPage().quantityNumber);
-		selectByIndex(factory.retailOrderPage().quantityNumber,  int1 );		
+		selectByIndex(factory.retailOrderPage().quantityNumber,  int2 );		
 		logger.info("User select quantity");
 	}
 	@When("User click add to Cart button")
@@ -55,8 +55,8 @@ public class RetailOrderSteps extends CommonUtility{
     
 	}
 	@Then("the cart icon quantity should change to ‘{int}’")
-	public void theCartIconQuantityShouldChangeTo(Integer int1) {	
-		selectByIndex(factory.retailOrderPage().quantityNumber,  int1 );
+	public void theCartIconQuantityShouldChangeTo(Integer int2) {	
+		selectByIndex(factory.retailOrderPage().quantityNumber,  int2 );
 		logger.info("the cart icon quantity changed");	
 	}
 	
@@ -80,13 +80,13 @@ public class RetailOrderSteps extends CommonUtility{
 	
 	@When("User click on the item")
 	public void userClickOnTheItem() {
-	    click(factory.retailOrderPage().imgApexLegends);
+	    click(factory.retailOrderPage().apexLegends);
 	    logger.info("User click on item successfully");
 	}
 	@When("User select the quantity ‘{int}’")
-	public void userSelectTheQuantity(Integer int2) throws InterruptedException {
+	public void userSelectTheQuantity(Integer int5) throws InterruptedException {
 		clearTextUsingSendKeys(factory.retailOrderPage().quantityNumber);
-		selectByIndex(factory.retailOrderPage().quantityNumber,  int2 );
+		selectByIndex(factory.retailOrderPage().quantityNumber,int5 );
 		Thread.sleep(2000);
 		logger.info("User select quantity");
 	}
@@ -97,8 +97,8 @@ public class RetailOrderSteps extends CommonUtility{
 	}
 	
 	@Then("cart icon quantity should change to ‘{int}’")
-	public void cartIconQuantityShouldChangeTo(Integer int2) {
-		selectByIndex(factory.retailOrderPage().quantityNumber,  int2 );
+	public void cartIconQuantityShouldChangeTo(Integer int5) {
+		selectByIndex(factory.retailOrderPage().quantityNumber,int5);
 		logger.info("the cart icon quantity changed");	
 	}
 	

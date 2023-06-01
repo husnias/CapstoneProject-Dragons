@@ -20,7 +20,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 5174126789072590 | Husnia     |               6 |           2025 |        888 |
+      | 5174126749072574 | Husnia     |               6 |           2025 |        484 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
@@ -30,7 +30,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 4350935761098340 | Husnia     |               5 |           2026 |          919 |
+      | 4350935767098344 | Husnia     |               5 |           2026 |          415 |
     And user click on Update Your Card button
     Then a message should be displayed ‘Payment Method updated Successfully’
 
@@ -45,7 +45,7 @@ Feature: Retail Account Page
     And User click on Add address option
     And user fill new address form with below information
       | country       | fullName | phoneNumber  | streetAddress    | apt   | city        | state   | zipCode |
-      | United States | Sara     | 202-666-0904 | 3299 Sun street | value | wooddbridge | Alabama |   22191 |
+      | United States | Sara     | 202-666-0907 | 3211 Sun street | value | wooddbridge | Alabama |   22191 |
     And User click Add Your Address button
     Then a message should be displayed ‘Address Added Successfully’
 
@@ -54,7 +54,7 @@ Feature: Retail Account Page
     And User click on edit address option
     And user fill  edit address form with below information
       | country       | fullName   | phoneNumber  | streetAddress     | apt   | city        | state   | zipCode |
-      | United States | Sara Ahmad | 202-555-0101 | 3237 avneu street | value | wooddbridge | Alabama |   22191 |
+      | United States | Sara Ahmad | 202-555-0107 | 3222 avneu street | value | wooddbridge | Alabama |   22191 |
     And User click update Your Address button
     Then a message should be displayed ‘Address Updated Successfully
 

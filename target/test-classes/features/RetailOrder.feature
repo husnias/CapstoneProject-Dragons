@@ -21,7 +21,7 @@ Feature: Retail Order Page
     And User click add to Cart button
     Then the cart icon quantity should change to ‘2’
 
-  @Regression
+  @Regression 
   Scenario: Verify User can place an order with Shipping address and payment Method on file​​​​​​​
     And User change the category to the 'Electronics'
     And User search for the item 'Apex Legends'
