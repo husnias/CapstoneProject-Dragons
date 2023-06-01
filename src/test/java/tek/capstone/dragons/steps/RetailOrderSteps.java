@@ -175,8 +175,9 @@ public class RetailOrderSteps extends CommonUtility{
 	   
 	}
 	@When("User click on Return Items button")
-	public void userClickOnReturnItemsButton() {
-	    click(factory.retailOrderPage().returnItemsButtn);
+	public void userClickOnReturnItemsButton() throws InterruptedException {
+	    click(factory.retailOrderPage().returnItemsButn);
+	    Thread.sleep(3000);
 	    logger.info("User click on Return Items button");
 	}
 	@When("User select the Return Reason {string}")

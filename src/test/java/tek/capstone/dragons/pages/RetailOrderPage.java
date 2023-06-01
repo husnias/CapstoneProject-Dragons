@@ -93,7 +93,7 @@ public class RetailOrderPage extends BaseSetup{
 	public WebElement firstItemOnTheList;
 	
 	@FindBy(xpath= "//button[@id='returnBtn']")
-	public WebElement returnItemsButtn;
+	public WebElement returnItemsButn;
 	 
 	@FindBy(xpath= "//select[@id='reasonInput']")
 	public WebElement resonToReturnItem;

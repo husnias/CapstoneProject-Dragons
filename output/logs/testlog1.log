@@ -3961,3 +3961,201 @@
 2023-05-31 17:14:21,438 [main] INFO logger_file - User click on account successfully
 2023-05-31 17:14:21,546 [main] INFO logger_file - User click on edit address
 2023-05-31 17:14:22,646 [main] INFO logger_file - User enterd the information successfully 
+2023-05-31 20:37:00,722 [main] INFO logger_file - User is on retail website
+2023-05-31 20:37:01,115 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:37:01,294 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:37:01,561 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:37:06,622 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:37:06,937 [main] INFO logger_file - User click on account successfully
+2023-05-31 20:37:07,217 [main] INFO logger_file - User update name and phone number successfully
+2023-05-31 20:37:32,050 [main] INFO logger_file - User is on retail website
+2023-05-31 20:37:32,470 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:37:32,634 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:37:32,884 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:37:37,925 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:37:38,238 [main] INFO logger_file - User click on account successfully
+2023-05-31 20:37:38,560 [main] INFO logger_file - User click on add payment method successfully
+2023-05-31 20:37:38,779 [main] INFO logger_file - User enterd the information successfully 
+2023-05-31 20:37:39,032 [main] INFO logger_file -  add your card Button successfully
+2023-05-31 20:38:23,422 [main] INFO logger_file - User is on retail website
+2023-05-31 20:38:23,814 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:38:23,947 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:38:24,193 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:38:29,236 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:38:29,551 [main] INFO logger_file - User click on account successfully
+2023-05-31 20:38:29,876 [main] INFO logger_file - User click on Card to Eidt
+2023-05-31 20:38:30,170 [main] INFO logger_file - User click on Edit option of card section successfully
+2023-05-31 20:38:30,604 [main] INFO logger_file - User entered the information successfully 
+2023-05-31 20:38:30,856 [main] INFO logger_file - User click Update card Button
+2023-05-31 20:38:55,621 [main] INFO logger_file - User is on retail website
+2023-05-31 20:38:56,002 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:38:56,138 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:38:56,387 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:39:01,412 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:39:01,695 [main] INFO logger_file - User click on account successfully
+2023-05-31 20:39:02,088 [main] INFO logger_file - User click on Card to remove
+2023-05-31 20:39:02,433 [main] INFO logger_file - click on remove option
+2023-05-31 20:39:02,489 [main] INFO logger_file - Payment details have been removed successfully
+2023-05-31 20:39:06,575 [main] INFO logger_file - User is on retail website
+2023-05-31 20:39:06,953 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:39:07,085 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:39:07,333 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:39:12,354 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:39:12,652 [main] INFO logger_file - User click on account successfully
+2023-05-31 20:39:12,930 [main] INFO logger_file - User click on Add address option successfully
+2023-05-31 20:39:13,614 [main] INFO logger_file - User enterd the information successfully 
+2023-05-31 20:39:18,952 [main] INFO logger_file - User click add address button successfuly
+2023-05-31 20:39:19,566 [main] INFO logger_file - Payment Method updated Successfully
+2023-05-31 20:39:23,461 [main] INFO logger_file - User is on retail website
+2023-05-31 20:39:23,836 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:39:23,988 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:39:24,236 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:39:29,254 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:39:29,593 [main] INFO logger_file - User click on account successfully
+2023-05-31 20:39:29,857 [main] INFO logger_file - User click on edit address
+2023-05-31 20:39:30,434 [main] INFO logger_file - User enterd the information successfully 
+2023-05-31 20:39:35,775 [main] INFO logger_file - User click update Your Address button
+2023-05-31 20:39:36,368 [main] INFO logger_file - Address Updated Successfully
+2023-05-31 20:39:40,605 [main] INFO logger_file - User is on retail website
+2023-05-31 20:39:40,954 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:39:41,088 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:39:41,334 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:39:46,381 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:39:46,671 [main] INFO logger_file - User click on account successfully
+2023-05-31 20:39:46,920 [main] INFO logger_file - User click on remove option of Address section
+2023-05-31 20:39:46,935 [main] INFO logger_file - Payment details have been removed successfully
+2023-05-31 20:41:51,730 [main] INFO logger_file - User is on retail website
+2023-05-31 20:41:52,119 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:41:52,279 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:41:52,534 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:41:57,576 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:41:57,883 [main] INFO logger_file - User click on account successfully
+2023-05-31 20:41:58,070 [main] INFO logger_file - User update name and phone number successfully
+2023-05-31 20:41:58,332 [main] INFO logger_file - User click on update button
+2023-05-31 20:42:03,386 [main] INFO logger_file - Your Profile: was Updated successfully
+2023-05-31 20:42:07,592 [main] INFO logger_file - User is on retail website
+2023-05-31 20:42:07,950 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:42:08,098 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:42:08,350 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:42:13,380 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:42:13,699 [main] INFO logger_file - User click on account successfully
+2023-05-31 20:42:13,994 [main] INFO logger_file - User click on add payment method successfully
+2023-05-31 20:42:14,260 [main] INFO logger_file - User enterd the information successfully 
+2023-05-31 20:42:14,519 [main] INFO logger_file -  add your card Button successfully
+2023-05-31 20:42:15,100 [main] INFO logger_file - Payment method added successfully
+2023-05-31 20:42:19,294 [main] INFO logger_file - User is on retail website
+2023-05-31 20:42:19,690 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:42:19,840 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:42:20,087 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:42:25,118 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:42:25,436 [main] INFO logger_file - User click on account successfully
+2023-05-31 20:42:25,746 [main] INFO logger_file - User click on Card to Eidt
+2023-05-31 20:42:26,102 [main] INFO logger_file - User click on Edit option of card section successfully
+2023-05-31 20:42:26,482 [main] INFO logger_file - User entered the information successfully 
+2023-05-31 20:42:26,735 [main] INFO logger_file - User click Update card Button
+2023-05-31 20:42:27,371 [main] INFO logger_file - Payment Method updated Successfully
+2023-05-31 20:42:31,380 [main] INFO logger_file - User is on retail website
+2023-05-31 20:42:31,755 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:42:31,898 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:42:32,147 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:42:37,166 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:42:37,453 [main] INFO logger_file - User click on account successfully
+2023-05-31 20:42:37,746 [main] INFO logger_file - User click on Card to remove
+2023-05-31 20:42:38,027 [main] INFO logger_file - click on remove option
+2023-05-31 20:42:38,071 [main] INFO logger_file - Payment details have been removed successfully
+2023-05-31 20:42:41,978 [main] INFO logger_file - User is on retail website
+2023-05-31 20:42:42,370 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:42:42,503 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:42:42,751 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:42:47,769 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:42:48,066 [main] INFO logger_file - User click on account successfully
+2023-05-31 20:42:48,374 [main] INFO logger_file - User click on Add address option successfully
+2023-05-31 20:42:49,034 [main] INFO logger_file - User enterd the information successfully 
+2023-05-31 20:42:54,392 [main] INFO logger_file - User click add address button successfuly
+2023-05-31 20:42:54,976 [main] INFO logger_file - Payment Method updated Successfully
+2023-05-31 20:42:58,998 [main] INFO logger_file - User is on retail website
+2023-05-31 20:42:59,410 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:42:59,557 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:42:59,804 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:43:04,836 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:43:05,129 [main] INFO logger_file - User click on account successfully
+2023-05-31 20:43:05,424 [main] INFO logger_file - User click on edit address
+2023-05-31 20:43:05,994 [main] INFO logger_file - User enterd the information successfully 
+2023-05-31 20:43:11,347 [main] INFO logger_file - User click update Your Address button
+2023-05-31 20:43:11,916 [main] INFO logger_file - Address Updated Successfully
+2023-05-31 20:43:15,811 [main] INFO logger_file - User is on retail website
+2023-05-31 20:43:16,219 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:43:16,359 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:43:16,605 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:43:21,654 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:43:21,944 [main] INFO logger_file - User click on account successfully
+2023-05-31 20:43:22,209 [main] INFO logger_file - User click on remove option of Address section
+2023-05-31 20:43:22,225 [main] INFO logger_file - Payment details have been removed successfully
+2023-05-31 20:50:06,765 [main] INFO logger_file - User is on retail website
+2023-05-31 20:50:07,214 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:50:07,383 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:50:07,657 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:50:12,703 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:50:13,028 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 20:50:13,353 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 20:50:13,665 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 20:50:13,974 [main] INFO logger_file - User change the category successfully
+2023-05-31 20:50:14,055 [main] INFO logger_file - User serach for item successfully
+2023-05-31 20:50:14,315 [main] INFO logger_file - User click on search icon successfully
+2023-05-31 20:50:17,618 [main] INFO logger_file - user on Item successFully
+2023-05-31 20:50:17,945 [main] INFO logger_file - User select quantity
+2023-05-31 20:50:18,193 [main] INFO logger_file - User click add to Cart button
+2023-05-31 20:50:18,273 [main] INFO logger_file - the cart icon quantity changed
+2023-05-31 20:50:22,681 [main] INFO logger_file - User is on retail website
+2023-05-31 20:50:23,300 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:50:23,477 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:50:23,735 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:50:28,783 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:50:29,109 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 20:50:29,405 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 20:50:29,698 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 20:50:29,976 [main] INFO logger_file - User change the category successfully
+2023-05-31 20:50:30,044 [main] INFO logger_file - User serach for item successfully
+2023-05-31 20:50:30,300 [main] INFO logger_file - User click on search icon successfully
+2023-05-31 20:50:30,568 [main] INFO logger_file - User click on item successfully
+2023-05-31 20:50:30,969 [main] INFO logger_file - User select quantity
+2023-05-31 20:50:31,219 [main] INFO logger_file - User click add to Cart button
+2023-05-31 20:50:31,350 [main] INFO logger_file - the cart icon quantity changed
+2023-05-31 20:50:31,623 [main] INFO logger_file - User click on cart option
+2023-05-31 20:50:31,890 [main] INFO logger_file - User click on Proceed to Checkout button
+2023-05-31 20:50:32,135 [main] INFO logger_file - User clicked on Place Your Order button
+2023-05-31 20:50:32,712 [main] INFO logger_file - Order Placed Successfully
+2023-05-31 20:50:36,640 [main] INFO logger_file - User is on retail website
+2023-05-31 20:50:37,013 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:50:37,150 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:50:37,397 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:50:42,416 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:50:42,699 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 20:50:43,012 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 20:50:43,304 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 20:50:43,570 [main] INFO logger_file - User clicked on Cancel The Order button
+2023-05-31 20:50:43,852 [main] INFO logger_file - User selected the cancellation reason 'Bought wrong item'
+2023-05-31 20:50:44,147 [main] INFO logger_file - User clicked on Cancel Order button
+2023-05-31 20:50:44,176 [main] INFO logger_file - Cancellation message displayed correctly
+2023-05-31 20:50:48,236 [main] INFO logger_file - User is on retail website
+2023-05-31 20:50:48,658 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:50:48,802 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:50:49,051 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:50:54,067 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:50:54,369 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 20:50:54,678 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 20:50:54,929 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 20:50:55,239 [main] INFO logger_file - User click on first order in the list
+2023-05-31 20:51:39,880 [main] INFO logger_file - User is on retail website
+2023-05-31 20:51:40,296 [main] INFO logger_file - User clicked on signin button successfully
+2023-05-31 20:51:40,444 [main] INFO logger_file - User enter email and password successfully
+2023-05-31 20:51:40,691 [main] INFO logger_file - User click on log in button successfully
+2023-05-31 20:51:45,702 [main] INFO logger_file - Account: was verified successfully
+2023-05-31 20:51:45,995 [main] INFO logger_file - User click on the category dropdown
+2023-05-31 20:51:46,304 [main] INFO logger_file - User clicked on Orders section
+2023-05-31 20:51:46,584 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 20:51:46,858 [main] INFO logger_file - User clicked on first order in list
+2023-05-31 20:51:47,121 [main] INFO logger_file - User click on Review button
+2023-05-31 20:51:47,222 [main] INFO logger_file - User writes review headline and text
+2023-05-31 20:51:47,524 [main] INFO logger_file - User click Add your Review button
+2023-05-31 20:51:48,073 [main] INFO logger_file - review was added successfully
