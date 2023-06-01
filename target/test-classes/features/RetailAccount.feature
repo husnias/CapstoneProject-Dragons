@@ -11,7 +11,7 @@ Feature: Retail Account Page
 
   @Regression
   Scenario: Verify User can update Profile Information
-    And User update Name 'HusniaSh' and Phone '202-641-7733'
+    And User update Name 'HusniaSi' and Phone '202-641-7732'
     And User click on Update button
     Then user profile information should be updated
 
@@ -20,7 +20,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 5174126789072591 | Husnia     |               6 |           2025 |        882 |
+      | 5174126789072590 | Husnia     |               6 |           2025 |        888 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
@@ -30,7 +30,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 4350935761098341 | Husnia     |               5 |           2026 |          119 |
+      | 4350935761098340 | Husnia     |               5 |           2026 |          919 |
     And user click on Update Your Card button
     Then a message should be displayed ‘Payment Method updated Successfully’
 
